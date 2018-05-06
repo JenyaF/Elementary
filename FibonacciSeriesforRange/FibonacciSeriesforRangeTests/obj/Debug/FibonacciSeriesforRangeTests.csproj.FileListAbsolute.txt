@@ -1,0 +1,44 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRangeTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRangeTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRange.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Moq.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRange.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRange.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Moq.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Moq.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Numbers.xml
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.pdb
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Numbers.xml
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRangeTests.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRangeTests.pdb
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRange.exe
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Moq.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRange.pdb
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\FibonacciSeriesforRange.exe.config
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Moq.pdb
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\Moq.xml
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRangeTests\obj\Debug\FibonacciSeriesforRangeTests.csproj.CopyComplete

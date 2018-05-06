@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\bin\Debug\FibonacciSeriesforRange.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\bin\Debug\FibonacciSeriesforRange.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\bin\Debug\FibonacciSeriesforRange.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.pdb
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\bin\Debug\FibonacciSeriesforRange.exe.config
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\bin\Debug\FibonacciSeriesforRange.exe
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\bin\Debug\FibonacciSeriesforRange.pdb
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.exe
+C:\Users\Женя\GitHub\Elementary\FibonacciSeriesforRange\FibonacciSeriesforRange\obj\Debug\FibonacciSeriesforRange.pdb

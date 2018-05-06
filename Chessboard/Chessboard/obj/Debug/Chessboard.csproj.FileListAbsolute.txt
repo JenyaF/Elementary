@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\bin\Debug\Chessboard.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\bin\Debug\Chessboard.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\bin\Debug\Chessboard.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\obj\Debug\Chessboard.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\obj\Debug\Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\obj\Debug\Chessboard.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\Chessboard\obj\Debug\Chessboard.pdb
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\bin\Debug\Chessboard.exe.config
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\bin\Debug\Chessboard.exe
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\bin\Debug\Chessboard.pdb
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\obj\Debug\Chessboard.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\obj\Debug\Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\obj\Debug\Chessboard.exe
+C:\Users\Женя\GitHub\Elementary\Chessboard\Chessboard\obj\Debug\Chessboard.pdb

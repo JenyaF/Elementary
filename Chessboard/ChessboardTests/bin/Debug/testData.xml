@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Representation>
+  <Field width="2" height="3" content="* \n *\n* \n"/>
+  <Field width="0" height="0" content=""/>
+  <Field width="0" height="7" content=""/>
+  <Field width="-2" height="0" content=""/>
+  <Field width="-3" height="4" content="* *\n * \n* *\n * \n"/>
+  <Field width="1" height="1" content="*"/>
+</Representation>

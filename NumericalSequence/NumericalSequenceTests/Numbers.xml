@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NaturalNumbers>
+  <number n="0" lessNumbers=""/>
+  <number n="1" lessNumbers=""/>
+  <number n="3" lessNumbers="1"/>
+  <number n="-8" lessNumbers="1, 4"/>
+  <number n="26" lessNumbers="1, 4, 9, 16, 25"/>
+  <number n="16" lessNumbers="1, 4, 9"/>
+</NaturalNumbers>

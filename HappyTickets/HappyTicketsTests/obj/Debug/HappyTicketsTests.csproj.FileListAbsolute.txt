@@ -1,0 +1,35 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\HappyTicketsTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\HappyTicketsTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\HappyTickets.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\HappyTickets.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\HappyTickets.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTicketsTests\bin\Debug\Tickets.xml
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.pdb
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Tickets.xml
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\HappyTicketsTests.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\HappyTicketsTests.pdb
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\HappyTickets.exe
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Moq.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\HappyTickets.pdb
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\HappyTickets.exe.config
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Moq.pdb
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\Moq.xml
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTicketsTests\obj\Debug\HappyTicketsTests.csproj.CopyComplete

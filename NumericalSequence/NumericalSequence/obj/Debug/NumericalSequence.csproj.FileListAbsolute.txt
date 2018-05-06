@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\bin\Debug\NumericalSequence.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\bin\Debug\NumericalSequence.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\bin\Debug\NumericalSequence.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.pdb
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.exe
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\obj\Debug\NumericalSequence.pdb
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\bin\Debug\NumericalSequence.exe.config
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\bin\Debug\NumericalSequence.exe
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequence\bin\Debug\NumericalSequence.pdb

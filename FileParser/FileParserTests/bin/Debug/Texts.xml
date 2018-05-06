@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<texts>
+  <text currentText="QwertY {sUb}srdfg zx{sub}{SUB}cvb" oldSubstring="suB" countOfOccurrences="3" newSubstring="sY" replacedText="QwertY {sY}srdfg zx{sY}{sY}cvb"/>
+  <text currentText="qwerty {sub}srdfg zx{sub}cvb" oldSubstring="sub" countOfOccurrences="2" newSubstring="s" replacedText="qwerty {s}srdfg zx{s}cvb"/>
+  <text currentText="qwerty {sub}srdfg zxcvb" oldSubstring="sub" countOfOccurrences="1" newSubstring="" replacedText="qwerty {}srdfg zxcvb"/>
+  <text currentText="qwerty {sub}srdfg zxcvb" oldSubstring="qwerty {sub}srdfg zxcvb" countOfOccurrences="1" newSubstring="1" replacedText="1"/>
+  <text currentText="" oldSubstring="sub" countOfOccurrences="0" newSubstring="1" replacedText=""/>
+  <text currentText="qwerty" oldSubstring="sub" countOfOccurrences="0" newSubstring="1" replacedText="qwerty"/>
+</texts>

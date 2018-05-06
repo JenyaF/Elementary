@@ -1,0 +1,21 @@
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe.config
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.pdb
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.csprojResolveAssemblyReference.cache
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.csproj.CoreCompileInputs.cache
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.exe
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.pdb
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe.config
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.pdb
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.exe
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheList\obj\Debug\NumberInTheList.pdb

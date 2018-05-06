@@ -1,0 +1,44 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\ChessboardTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\ChessboardTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Chessboard.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Chessboard.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Chessboard.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\testData.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Moq.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Moq.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\Moq.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\Chessboard\ChessboardTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\testData.xml
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\ChessboardTests.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\ChessboardTests.pdb
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Chessboard.exe
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Moq.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Chessboard.pdb
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Chessboard.exe.config
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Moq.pdb
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\Moq.xml
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.csproj.CopyComplete
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.dll
+C:\Users\Женя\GitHub\Elementary\Chessboard\ChessboardTests\obj\Debug\ChessboardTests.pdb

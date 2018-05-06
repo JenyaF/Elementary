@@ -1,0 +1,39 @@
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\Digits.xml
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheListTests.dll
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheListTests.pdb
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.exe
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.pdb
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.exe.config
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csproj.CopyComplete
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.dll
+C:\Users\Женя\source\repos\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\Digits.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheListTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheListTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.pdb
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\Digits.xml
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheListTests.dll
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheListTests.pdb
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.exe
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.pdb
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\NumberInTheList.exe.config
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.csproj.CopyComplete
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.dll
+C:\Users\Женя\GitHub\Elementary\NumberInTheList\NumberInTheListTests\obj\Debug\NumberInTheListTests.pdb

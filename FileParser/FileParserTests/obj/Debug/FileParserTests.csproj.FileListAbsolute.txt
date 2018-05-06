@@ -1,0 +1,44 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Texts.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\FileParserTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\FileParserTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\FileParser.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Moq.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\FileParser.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\FileParser.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Moq.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\Moq.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\obj\Debug\FileParserTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\obj\Debug\FileParserTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\obj\Debug\FileParserTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\obj\Debug\FileParserTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParserTests\obj\Debug\FileParserTests.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\obj\Debug\FileParserTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\obj\Debug\FileParserTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\obj\Debug\FileParserTests.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\obj\Debug\FileParserTests.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Texts.xml
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\FileParserTests.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\FileParserTests.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Castle.Core.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\FileParser.exe
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Moq.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\FileParser.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\FileParser.exe.config
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Castle.Core.xml
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Moq.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\Moq.xml
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParserTests\obj\Debug\FileParserTests.csproj.CopyComplete

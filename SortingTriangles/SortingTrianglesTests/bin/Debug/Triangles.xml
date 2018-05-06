@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<triangles>
+ <triangle a="12" b="14" c="12" area="68,226" ></triangle>
+ <triangle a="3" b="3" c="4" area="4,472" ></triangle>
+ <triangle a="6" b="2" c="-5" area="4,684" ></triangle>
+ <triangle a="7" b="-7" c="7" area="21,218" ></triangle>
+ <triangle a="-9" b="-7" c="-5" area="17,412" ></triangle>
+</triangles>

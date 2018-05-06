@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B33220B-1B27-4FB5-8728-CF41875415F6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Elementary</RootNamespace>
+    <AssemblyName>Elementary</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Menu.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AnalisisOfEnvelopes\AnalisisOfEnvelopes\AnalisisOfEnvelopes.csproj">
+      <Project>{fe73c48d-1a48-4c9b-9c0a-a7a8c520e68f}</Project>
+      <Name>AnalisisOfEnvelopes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chessboard\Chessboard\Chessboard.csproj">
+      <Project>{c3e70191-39c8-4bae-befa-c94a090a8db5}</Project>
+      <Name>Chessboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FibonacciSeriesforRange\FibonacciSeriesforRange\FibonacciSeriesforRange.csproj">
+      <Project>{df67b0ed-f81b-46af-b266-4303cdd6eb9c}</Project>
+      <Name>FibonacciSeriesforRange</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileParser\FileParser\FileParser.csproj">
+      <Project>{bcc5a547-a3e5-497c-8c95-cd60eb215143}</Project>
+      <Name>FileParser</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HappyTickets\HappyTickets\HappyTickets.csproj">
+      <Project>{2ed32944-e93c-4376-8d8c-d462fe03b660}</Project>
+      <Name>HappyTickets</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NumberInTheList\NumberInTheList\NumberInTheList.csproj">
+      <Project>{69868520-3b56-4225-a4f7-ab7b127144ca}</Project>
+      <Name>NumberInTheList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NumericalSequence\NumericalSequence\NumericalSequence.csproj">
+      <Project>{cb45b352-36ff-4fd0-9292-3edea384d068}</Project>
+      <Name>NumericalSequence</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SortingTriangles\SortingTriangles\SortingTriangles.csproj">
+      <Project>{15fad440-32c6-4dd4-9562-13ae7fcbff40}</Project>
+      <Name>SortingTriangles</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

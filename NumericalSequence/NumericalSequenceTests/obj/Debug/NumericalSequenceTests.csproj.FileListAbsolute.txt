@@ -1,0 +1,16 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\NumericalSequenceTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\NumericalSequenceTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\NumericalSequence.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\NumericalSequence.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\NumericalSequence.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.pdb
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.dll
+C:\Users\Женя\GitHub\Elementary\NumericalSequence\NumericalSequenceTests\obj\Debug\NumericalSequenceTests.pdb

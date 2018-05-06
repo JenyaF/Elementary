@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\bin\Debug\SortingTriangles.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\bin\Debug\SortingTriangles.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\bin\Debug\SortingTriangles.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.pdb
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\bin\Debug\SortingTriangles.exe.config
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\bin\Debug\SortingTriangles.exe
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\bin\Debug\SortingTriangles.pdb
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.exe
+C:\Users\Женя\GitHub\Elementary\SortingTriangles\SortingTriangles\obj\Debug\SortingTriangles.pdb

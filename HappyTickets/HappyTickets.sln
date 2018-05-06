@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyTickets", "HappyTickets\HappyTickets.csproj", "{2ED32944-E93C-4376-8D8C-D462FE03B660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyTicketsTests", "HappyTicketsTests\HappyTicketsTests.csproj", "{7018BB30-BD8C-4914-9A2B-7B8CFBEF6543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED32944-E93C-4376-8D8C-D462FE03B660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED32944-E93C-4376-8D8C-D462FE03B660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED32944-E93C-4376-8D8C-D462FE03B660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED32944-E93C-4376-8D8C-D462FE03B660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7018BB30-BD8C-4914-9A2B-7B8CFBEF6543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7018BB30-BD8C-4914-9A2B-7B8CFBEF6543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7018BB30-BD8C-4914-9A2B-7B8CFBEF6543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7018BB30-BD8C-4914-9A2B-7B8CFBEF6543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7337A5CD-C919-4BC7-BFB7-E8364495182F}
+	EndGlobalSection
+EndGlobal

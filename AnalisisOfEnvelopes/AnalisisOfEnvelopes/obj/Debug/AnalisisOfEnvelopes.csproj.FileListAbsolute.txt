@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\bin\Debug\AnalisisOfEnvelopes.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\bin\Debug\AnalisisOfEnvelopes.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\bin\Debug\AnalisisOfEnvelopes.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.pdb
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\bin\Debug\AnalisisOfEnvelopes.exe.config
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\bin\Debug\AnalisisOfEnvelopes.exe
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\bin\Debug\AnalisisOfEnvelopes.pdb
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.exe
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopes\obj\Debug\AnalisisOfEnvelopes.pdb

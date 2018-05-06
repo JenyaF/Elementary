@@ -1,0 +1,26 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopesTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopesTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopes.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopes.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopes.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.csproj.CopyComplete
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.dll
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\Envelopes.xml
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\Envelopes.xml
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopesTests.dll
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopesTests.pdb
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopes.exe
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopes.pdb
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\AnalisisOfEnvelopes.exe.config
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.csproj.CopyComplete
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.dll
+C:\Users\Женя\GitHub\Elementary\AnalisisOfEnvelopes\AnalisisOfEnvelopesTests\obj\Debug\AnalisisOfEnvelopesTests.pdb

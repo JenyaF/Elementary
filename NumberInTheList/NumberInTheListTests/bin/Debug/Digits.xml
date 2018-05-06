@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<numbers>
+  <number digits="10" stringDigits="десять"/>
+  <number digits="123" stringDigits="сто двадцать три"/>
+  <number digits="0" stringDigits="ноль"/>
+  <number digits="123456789" stringDigits="сто двадцать три миллиона четыриста пятьдесят шесть тысяч семьсот восемдесят девять"/>  
+  <number digits="100" stringDigits="сто"/>
+  <number digits="102" stringDigits="сто два"/>
+  <number digits="12" stringDigits="двенадцать"/> 
+  <number digits="10200" stringDigits="десять тысяч двести"/>
+  <number digits="20" stringDigits="двадцать"/>
+  <number digits="90" stringDigits="девяносто"/>
+  <number digits="19" stringDigits="девятнадцать"/>
+</numbers>

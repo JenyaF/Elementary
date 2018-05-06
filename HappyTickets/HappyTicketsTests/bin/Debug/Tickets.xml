@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<numbers>
+  <number content="123123" IsHappyMoskow="true" IsHappyPiter="true"/>
+  <number content="000000" IsHappyMoskow="true" IsHappyPiter="true"/>
+  <number content="000123" IsHappyMoskow="false" IsHappyPiter="false"/>
+  <number content="012003" IsHappyMoskow="true" IsHappyPiter="false"/>
+  <number content="345679" IsHappyMoskow="false" IsHappyPiter="false"/>
+  <number content="763400" IsHappyMoskow="false" IsHappyPiter="true"/>
+</numbers>

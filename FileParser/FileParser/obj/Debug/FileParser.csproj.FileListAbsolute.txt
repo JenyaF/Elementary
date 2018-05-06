@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\bin\Debug\FileParser.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\bin\Debug\FileParser.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\obj\Debug\FileParser.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\obj\Debug\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\obj\Debug\FileParser.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\FileParser\FileParser\obj\Debug\FileParser.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\obj\Debug\FileParser.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\obj\Debug\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\obj\Debug\FileParser.exe
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\obj\Debug\FileParser.pdb
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\bin\Debug\FileParser.exe
+C:\Users\Женя\GitHub\Elementary\FileParser\FileParser\bin\Debug\FileParser.pdb

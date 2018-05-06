@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GenericTest name="GenericTest1" storage="c:\users\женя\source\repos\numberinthelist\numberinthelisttests\generictest1.generictest" id="65b2c86a-93e8-41b5-81a1-ba4b8ff23277" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Command filename="C:\Users\Женя\source\repos\NumberInTheList\NumberInTheList\bin\Debug\NumberInTheList.exe" arguments="13 45 4ffr 1234567890 123098764 -123 1.1" workingDirectory="%TestOutputDirectory%" />
+  <SummaryXmlFile path="%TestOutputDirectory%\&lt;Enter summary file name here&gt;" />
+</GenericTest>

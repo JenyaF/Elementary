@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<numbers>
+  <number lowerBound="0" upperBound="1" range="0,1,1"/>
+  <number lowerBound="0" upperBound="0" range="0"/>
+  <number lowerBound="0" upperBound="5" range="0,1,1,2,3,5"/>
+  <number lowerBound="5" upperBound="10" range="5,8"/>
+  <number lowerBound="4" upperBound="12" range="5,8"/>  
+  <number lowerBound="5" upperBound="5" range="5"/>
+</numbers>

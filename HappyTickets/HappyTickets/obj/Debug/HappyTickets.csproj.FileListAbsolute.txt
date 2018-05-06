@@ -1,0 +1,14 @@
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\bin\Debug\HappyTickets.exe.config
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\bin\Debug\HappyTickets.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\bin\Debug\HappyTickets.pdb
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\obj\Debug\HappyTickets.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\obj\Debug\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\obj\Debug\HappyTickets.exe
+C:\Users\Женя\Google Диск\учебный материал\softServe\HappyTickets\HappyTickets\obj\Debug\HappyTickets.pdb
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\bin\Debug\HappyTickets.exe.config
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\bin\Debug\HappyTickets.exe
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\bin\Debug\HappyTickets.pdb
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\obj\Debug\HappyTickets.csprojResolveAssemblyReference.cache
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\obj\Debug\HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\obj\Debug\HappyTickets.exe
+C:\Users\Женя\GitHub\Elementary\HappyTickets\HappyTickets\obj\Debug\HappyTickets.pdb
