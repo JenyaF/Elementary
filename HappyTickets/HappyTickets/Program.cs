@@ -7,6 +7,8 @@
 
 namespace HappyTickets
 {
+    using System;
+
     /// <summary>
     /// Class for starting program
     /// </summary>
@@ -19,9 +21,9 @@ namespace HappyTickets
         public static void Main(string[] args)
         {
             string path = args[0];
-            HappyTickets happyTickets = new HappyTickets(path);
-            System.Console.WriteLine($"Count of Moskow happy tickets = {happyTickets.CountOfHappyTicketsMoskow()}");
-            System.Console.WriteLine($"Count of Piter happy tickets = {happyTickets.CountOfHappyTicketsPiter()}");
+            File file = new File(path);            
+            HappyTickets happyTickets = new HappyTickets(file.GetAlgorithm());
+            Console.WriteLine($"Count of happy tickets = {happyTickets.CountOfHappyTicket()}");
         }
     }
 }

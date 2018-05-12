@@ -8,7 +8,7 @@
 namespace Chessboard
 {
     using System;
-
+    using System.IO;
     /// <summary>
     /// Class for starting program
     /// </summary>
@@ -24,6 +24,9 @@ namespace Chessboard
             int width = Convert.ToInt32(args[1]);
             Chessboard chessboard = new Chessboard(height, width);
             Console.WriteLine(chessboard.GetField());
+
+
+            
         }
     }
 }

@@ -30,7 +30,7 @@ namespace FileParser.Tests
             DataAccessMethod.Sequential)]
         [TestMethod]
         public void CountOfOccurrencesTest()
-        {
+        {           
             string text = TestContext.DataRow["currentText"].ToString();
             WordProcessing wordProcessing = new WordProcessing(text);
             string oldSubstring = TestContext.DataRow["oldSubstring"].ToString();

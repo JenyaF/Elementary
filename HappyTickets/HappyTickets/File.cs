@@ -6,9 +6,9 @@
 //----------------------------------------------
 namespace HappyTickets
 {
-    using System.Collections.Generic;
+    using System;
     using System.IO;
-    using System.Text; 
+    using System.Text;   
 
     /// <summary>
     /// Contains basic logic for file.
@@ -30,22 +30,27 @@ namespace HappyTickets
         }
 
         /// <summary>
-        /// Read lines from file.
+        /// Gets algorithm for select happy ticket.
         /// </summary>
-        /// <returns>List of lines.</returns>
-        public List<string> Read()
+        /// <returns>Algorithm for select happy ticket.</returns>
+        public Algorithm GetAlgorithm()
         {
-            List<string> lines = new List<string>();
+            string text;
             using (StreamReader sr = new StreamReader(this.path, Encoding.Default))
-            {               
-                string line;
-                while ((line = sr.ReadLine()) != null)
+            {
+                text = sr.ReadLine().Trim();
+                if (Algorithm.Moskow.ToString() == text)
                 {
-                    lines.Add(line.Trim());
+                    return Algorithm.Moskow;
                 }
-            }
 
-            return lines;
+                if (Algorithm.Piter.ToString() == text)
+                {
+                    return Algorithm.Piter;
+                }
+
+                throw new Exception("Incorrect data!");
+            }
         }
     }
 }

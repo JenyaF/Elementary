@@ -66,8 +66,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="HappyTicketsTests.cs" />
+    <Compile Include="IntHelperTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TicketTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HappyTickets\HappyTickets.csproj">

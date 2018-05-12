@@ -1,5 +1,5 @@
 ﻿//---------------------------------------------
-// <copyright file="TicketTests.cs" company="SoftServe">
+// <copyright file="HappyTicketsTests.cs" company="SoftServe">
 //     Copyright (c) SoftServe. All rights reserved.
 // </copyright>
 // <author>Jenya</author>
@@ -12,10 +12,10 @@ namespace HappyTickets.Tests
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     /// <summary>
-    /// Contains tests for class "Ticket".
+    /// Tests class "HappyTickets".
     /// </summary>
     [TestClass]
-    public class TicketTests
+    public class HappyTicketsTests
     {
         /// <summary>
         /// Gets or sets context of data.
@@ -23,33 +23,61 @@ namespace HappyTickets.Tests
         public TestContext TestContext { get; set; }
 
         /// <summary>
-        /// Tests method "IsHappy".
+        /// Tests method "IsHappyMoskow".
         /// </summary>
         [TestMethod]
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "Tickets.xml", "number", DataAccessMethod.Sequential)]
         public void IsHappyMoskowTest()
         {
             int[] number = TestContext.DataRow["content"].ToString().Select(x => Convert.ToInt32(x)).ToArray();
-            Ticket ticket = new Ticket(number);
+            HappyTickets tickets = new HappyTickets(Algorithm.Moskow);
             bool expected = Convert.ToBoolean(TestContext.DataRow["IsHappyMoskow"]);
 
-            bool result = ticket.IsHappyMoskow();
-           
+            bool result = tickets.IsHappyMoskow(number);
+
             Assert.AreEqual(result, expected);
         }
 
         /// <summary>
-        /// Tests method "IsHappy".
+        /// Tests method "IsHappyPiter".
         /// </summary>
         [TestMethod]
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "Tickets.xml", "number", DataAccessMethod.Sequential)]
         public void IsHappyPiterTest()
         {
             int[] number = TestContext.DataRow["content"].ToString().Select(x => Convert.ToInt32(x)).ToArray();
-            Ticket ticket = new Ticket(number);
+            HappyTickets tickets = new HappyTickets(Algorithm.Piter);
             bool expected = Convert.ToBoolean(TestContext.DataRow["IsHappyPiter"]);
 
-            bool result = ticket.IsHappyPiter();
+            bool result = tickets.IsHappyPiter(number);
+
+            Assert.AreEqual(result, expected);
+        }
+
+        /// <summary>
+        /// Tests method "CountOfHappyTickets" in Moskow case.
+        /// </summary>
+        [TestMethod]
+        public void CountOfHappyTicketsTest_Moskow()
+        {
+            HappyTickets tickets = new HappyTickets(Algorithm.Moskow);
+            int expected = 55252;
+
+            int result = tickets.CountOfHappyTicket();
+
+            Assert.AreEqual(result, expected);
+        }
+
+        /// <summary>
+        /// Tests method "CountOfHappyTickets" in Piter case.
+        /// </summary>
+        [TestMethod]
+        public void CountOfHappyTicketsTest_Piter()
+        {
+            HappyTickets tickets = new HappyTickets(Algorithm.Piter);
+            int expected = 55252;
+
+            int result = tickets.CountOfHappyTicket();
 
             Assert.AreEqual(result, expected);
         }

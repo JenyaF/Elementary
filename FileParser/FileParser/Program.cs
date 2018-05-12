@@ -26,14 +26,29 @@ namespace FileParser
             if (args.Length == 2)
             {
                 fileParser = new FileParser(path, substring);
-                Console.WriteLine($"Count of occurence = {fileParser.CountOfOccurrences()}.");
+                int countOfOccurrences = fileParser.CountOfOccurrences();
+                if (countOfOccurrences != -1)
+                {
+                    Console.WriteLine($"Count of occurence = {countOfOccurrences}.");
+                }
+                else
+                {
+                    Console.WriteLine("File doesn't exist!");
+                }
             }
             else
             {
                 string newSubstring = args[2];
                 fileParser = new FileParser(path, substring, newSubstring);
-                fileParser.ReplaseText();
-                Console.WriteLine("Done.");
+                bool result = fileParser.ReplaseText();
+                if (result)
+                {
+                     Console.WriteLine("Done.");
+                }
+                else
+                {
+                    Console.WriteLine("File doesn't exist!");
+                }              
             }
         }
     }

@@ -8,7 +8,6 @@
 namespace HappyTickets
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
 
     /// <summary>
@@ -17,85 +16,82 @@ namespace HappyTickets
     public class HappyTickets
     {
         /// <summary>
-        /// List of tickets.
+        /// Max number of ticket.
         /// </summary>
-        private List<Ticket> tickets = new List<Ticket>();
+        private const int MaxNumber = 999999;
 
         /// <summary>
-        /// File for reading data.
+        /// Gets count of digits in ticket.
         /// </summary>
-        private File file;
+        private const int CountOfDigits = 6;
+
+        /// <summary>
+        /// Checks if ticket is happy.
+        /// </summary>
+        private Func<int[], bool> isHappyTicket;
 
         /// <summary>
         ///  Initializes a new instance of the <see cref="HappyTickets"/> class.
         /// </summary>
-        /// <param name="path">Path of file.</param>
-        public HappyTickets(string path)
+        /// <param name="algorithm">Algorithm for count happy tickets.</param>
+        public HappyTickets(Algorithm algorithm)
         {
-            this.file = new File(path);
-            this.AddTicketsFromFile();
+            if (algorithm == Algorithm.Moskow)
+            {
+                 this.isHappyTicket = this.IsHappyMoskow;
+            }
+            else
+            {
+                this.isHappyTicket = this.IsHappyPiter;
+            }          
         }
 
         /// <summary>
-        /// Converts string number to integer.
+        /// Returns "true", if ticket is happy in one town.
         /// </summary>
-        /// <param name="text">String number.</param>
-        /// <returns>number of ticket.</returns>
-        public int[] GetNumberOfTicket(string text)
+        /// <param name="digits">Digits in ticket.</param>
+        /// <returns>Ticket is happy</returns>
+        public bool IsHappyMoskow(int[] digits)
         {
-            text = text.Trim();
-            int number = Math.Abs(Convert.ToInt32(text));
-            if (Ticket.CountOfDigits == text.Length)
-            {
-                int[] digits = new int[text.Length];
-                for (var i = 0; i < Ticket.CountOfDigits; i++)
-                {
-                    digits[i] = Convert.ToInt32(text[i].ToString());
-                }
+            int sumOfFirstDigits = digits.Take(digits.Length / 2).Sum();
+            int sumOfLastDigits = digits.Skip(digits.Length / 2).Sum();
+            return sumOfFirstDigits == sumOfLastDigits;
+        }
 
-                return digits;
+        /// <summary>
+        ///  Returns "true", if ticket is happy in another town.
+        /// </summary>
+        /// <param name="digits">Digits in ticket.</param>
+        /// <returns>>Ticket is happy</returns>
+        public bool IsHappyPiter(int[] digits)
+        {
+            int sumOfEvenDigits = 0;
+            int sumOfOddDigits = 0;
+            for (var i = 0; i < digits.Length; i += 2)
+            {
+                sumOfOddDigits += digits[i];
+                sumOfEvenDigits += digits[i + 1];
             }
 
-            throw new Exception($"Ticket contains only {Ticket.CountOfDigits} digits!");
+            return sumOfEvenDigits == sumOfOddDigits;
         }
 
         /// <summary>
-        /// add tickets from file.
+        /// Count happy tickets.
         /// </summary>
-        public void AddTicketsFromFile()
+        /// <returns>number of happy tickets.</returns>
+        public int CountOfHappyTicket()
         {
-            List<string> lines = this.file.Read();
-            foreach (var line in lines)
+            var countOfHappyTicket = 0;
+            for (var i = 0; i <= MaxNumber; i++)
             {
-                try
+                if (this.isHappyTicket(i.ConvertToArray(CountOfDigits)))
                 {
-                    int[] numberOfTicket = this.GetNumberOfTicket(line);
-                    Ticket ticket = new Ticket(numberOfTicket);
-                    this.tickets.Add(ticket);
-                }
-                catch (FormatException)
-                {
-                    Console.WriteLine("Incorrect data in  the line of file! The line will be ignored.");
-                    continue;
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message + " The line will be ignored.");
-                    continue;
+                    countOfHappyTicket++;
                 }
             }
-        }
-
-        /// <summary>
-        /// count the number of happy ticket in one way.
-        /// </summary>
-        /// <returns> Number of happy ticket.</returns>
-        public int CountOfHappyTicketsMoskow() => this.tickets.Count(ticket => ticket.IsHappyMoskow());
-
-        /// <summary>
-        /// count the number of happy ticket in one way.
-        /// </summary>
-        /// <returns> Number of happy ticket.</returns>
-        public int CountOfHappyTicketsPiter() => this.tickets.Count(ticket => ticket.IsHappyPiter());
+        
+            return countOfHappyTicket;
+        }      
     }
 }

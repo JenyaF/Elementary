@@ -7,17 +7,14 @@
 
 namespace FileParser
 {
+    using System.IO;
+
     /// <summary>
     /// Contains basic logic for file parsing.
     /// </summary>
     public class FileParser
     {
         #region
-        /// <summary>
-        /// File for processing.
-        /// </summary>
-        private File file;
-
         /// <summary>
         /// Text for processing.
         /// </summary>
@@ -32,6 +29,11 @@ namespace FileParser
         /// New substring.
         /// </summary>
         private string newSubstring;
+
+        /// <summary>
+        /// File path.
+        /// </summary>
+        private string path;
         #endregion
 
         /// <summary>
@@ -41,7 +43,7 @@ namespace FileParser
         /// <param name="substring">Substring for processing.</param>
         public FileParser(string path, string substring)
         {
-            this.file = new File(path);
+            this.path = path;
             this.substring = substring;
         }
 
@@ -63,28 +65,32 @@ namespace FileParser
         /// <returns>Count of occurrences substring in file.</returns>
         public int CountOfOccurrences()
         {
-            this.wordProcessing = this.CreateWordProcessing();
-            return this.wordProcessing.CountOfOccurrences(this.substring);
+            if (File.Exists(this.path))
+            {
+                string text = File.ReadAllText(this.path);
+                this.wordProcessing = new WordProcessing(text);
+                return this.wordProcessing.CountOfOccurrences(this.substring);
+            }
+
+            return -1;
         }
 
         /// <summary>
         /// Replaces substring in file.
         /// </summary>
-        public void ReplaseText()
-        {
-            this.wordProcessing = this.CreateWordProcessing();
-            string newText = this.wordProcessing.ReplasedText(this.substring, this.newSubstring);
-            this.file.Write(newText);
-        }
+        /// <returns>If success.</returns>
+        public bool ReplaseText()
+        {           
+            if (File.Exists(this.path))
+            {
+                string text = File.ReadAllText(this.path);
+                this.wordProcessing = new WordProcessing(text);
+                string newText = this.wordProcessing.ReplasedText(this.substring, this.newSubstring);
+                File.WriteAllText(this.path, newText, System.Text.Encoding.UTF8);
+                return true;
+            }
 
-        /// <summary>
-        /// Creates a new instance of the "WordProcessing" class.
-        /// </summary>
-        /// <returns>New instance of the "WordProcessing" class.</returns>
-        private WordProcessing CreateWordProcessing()
-        {
-            string text = this.file.Read();
-            return new WordProcessing(text);
+            return false;
         }
     }
 }

@@ -12,7 +12,7 @@ namespace FileParser
     /// <summary>
     /// Contains basic logic for working with text.
     /// </summary>
-    public class WordProcessing
+    public class WordProcessing 
     {       
         /// <summary>
         /// Text for working.
@@ -65,19 +65,19 @@ namespace FileParser
         /// <returns>List of indexes.</returns>
         private List<int> IndexesOf(string substring)
         {
-            string lowerSubstring = substring.ToLower();
-            string lowerText = this.text.ToLower();
             List<int> listOfIndexes = new List<int>();
-            for (var i = 0; i < lowerText.Length; i++)
+            var index = 0;
+            while (index < this.text.Length)
             {
-                if (lowerText[i] == lowerSubstring[0])
+                 index = this.text.IndexOf(substring, index, System.StringComparison.CurrentCultureIgnoreCase);
+                if (index == -1)
                 {
-                    if (lowerText.Substring(i, lowerSubstring.Length) == lowerSubstring)
-                    {
-                        listOfIndexes.Add(i);
-                    }
+                    break;
                 }
-            }
+
+                listOfIndexes.Add(index);
+                index += substring.Length;
+            }          
 
             return listOfIndexes;
         }
