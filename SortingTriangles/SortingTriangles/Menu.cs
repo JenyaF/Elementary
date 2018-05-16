@@ -47,7 +47,6 @@ namespace SortingTriangles
                 }
                 else
                 {
-
                     var a = Convert.ToDouble(dataOfTriangle[1]);
                     var b = Convert.ToDouble(dataOfTriangle[2]);
                     var c = Convert.ToDouble(dataOfTriangle[3]);

@@ -13,9 +13,16 @@ namespace NumericalSequence
     {
         public static void Main(string[] args)
         {
-            int n = Convert.ToInt32(args[0]);
-            SeriesOutput proccessingSeries = new SeriesOutput(n);
-            proccessingSeries.Print();
+            int n;
+            if (int.TryParse(args[0], out n))
+            {
+                var proccessingSeries = new SeriesOutput(n);
+                proccessingSeries.Print();
+            }
+            else
+            {
+                Console.WriteLine("Incorrect data!");
+            }
         }
     }
 }

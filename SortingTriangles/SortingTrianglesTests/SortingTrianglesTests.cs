@@ -21,8 +21,7 @@ namespace SortingTriangles.Tests
             var triangle2 = new Triangle("t2", 5, 5, 5);
             var triangle3 = new Triangle("t3", 3, 3, 3);
             var triangle4 = new Triangle("t4", 2, 2, 2);
-            var triangles = new List<Triangle>() { triangle1, triangle2, triangle3, triangle4 };
-            sortingTriangles.ListOfTriangles.AddRange(triangles);
+            sortingTriangles.ListOfTriangles.AddRange(new List<Triangle>() { triangle1, triangle2, triangle3, triangle4 });
             List<Triangle> expected = new List<Triangle>() { triangle2, triangle3, triangle4, triangle1 };
 
             sortingTriangles.SortByAreaByDescending();

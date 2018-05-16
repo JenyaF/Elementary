@@ -21,8 +21,7 @@ namespace SortingTriangles.Tests
             "triangle",
             DataAccessMethod.Sequential)]
         public void GetAreaTest()
-        {
-            
+        {           
             var a = Convert.ToDouble(TestContext.DataRow["a"]);
             var b = Convert.ToDouble(TestContext.DataRow["b"]);
             var c = Convert.ToDouble(TestContext.DataRow["c"]);
