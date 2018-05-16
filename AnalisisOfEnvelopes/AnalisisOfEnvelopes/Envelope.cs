@@ -7,38 +7,17 @@
 
 namespace AnalisisOfEnvelopes
 {
-    /// <summary>
-    /// Contains properties of envelope.
-    /// </summary>
+    using static System.Math;
+
     public class Envelope
     {
-        /// <summary>
-        /// Initializes a new instance of the <see cref="Envelope"/> class.
-        /// </summary>
-        /// <param name="a">First side.</param>
-        /// <param name="b">Second side.</param>
         public Envelope(double a, double b)
         {
-            if (a > b)
-            {
-                this.MaxSide = a;
-                this.MinSide = b;
-            }
-            else
-            {
-                this.MaxSide = b;
-                this.MinSide = a;
-            }              
+            this.MaxSide = Max(a, b);
+            this.MinSide = Min(a, b);
         }
 
-        /// <summary>
-        /// Gets min side.
-        /// </summary>
         public double MinSide { get; }
-
-        /// <summary>
-        /// Gets max side.
-        /// </summary>
         public double MaxSide { get; }
     }
 }

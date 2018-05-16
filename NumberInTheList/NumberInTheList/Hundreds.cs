@@ -11,24 +11,16 @@ namespace NumberInTheList
 
     public class Hundreds : Digits
     {
-        /// <summary>
-        /// Contains name of hunreds.
-        /// </summary>
         private static string[] hundreds = { "", "сто", "двести", "триста", "четыреста", "пятьсот", "шестьсот", "семьсот", "восемьсот", "девятьсот" };
 
-        /// <summary>
-        /// Gets string representation of digit.
-        /// </summary>
-        /// <returns>String representation of digit.</returns>
         public override string GetName()
         {
             return hundreds[Digit];
         }
 
         /// <summary>
-        /// Extract string representation and go to next rank which wasn't used.
+        /// Extract part string representation and go to next rank which wasn't used.
         /// </summary>
-        /// <returns>String representation of digit.</returns>
         public override string Extract()
         {
             string digitString;
@@ -42,7 +34,7 @@ namespace NumberInTheList
             }
             else if (QueueDigits.Count == 1)
             {
-               digitString = GetStringRepresentation();
+                digitString = string.Join(" ", StackStringDigits);
             }
             else
             {

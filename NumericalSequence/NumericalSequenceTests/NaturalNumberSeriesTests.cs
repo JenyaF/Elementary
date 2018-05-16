@@ -10,31 +10,26 @@ namespace NumericalSequence.Tests
     using System;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
    
-    /// <summary>
-    /// Class for test class "NaturalNumberSeries".
-    /// </summary>
     [TestClass]
     public class NaturalNumberSeriesTests
     {
-        /// <summary>
-        /// Gets or sets context of data.
-        /// </summary>
         public TestContext TestContext { get; set; }
 
-        /// <summary>
-        /// Tests method "StringSquaresNumberLessThenN".
-        /// </summary>
         [TestMethod]
-        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "Numbers.xml", "number", DataAccessMethod.Sequential)]
+        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML",
+            "Numbers.xml",
+            "number",
+            DataAccessMethod.Sequential)]
         public void StringSquaresNumberLessThenNTest()
         {
-            int n = Convert.ToInt32(TestContext.DataRow["n"]);
-            NaturalNumberSeries naturalNumberSeries = new NaturalNumberSeries(n);
-            string expected = TestContext.DataRow["lessNumbers"].ToString();
+            var n = Convert.ToInt32(TestContext.DataRow["n"]);
+            var naturalNumberSeries = new NaturalNumberSeries(n);
+            var expected = TestContext.DataRow["lessNumbers"].ToString();
+            bool isFinish;
 
-            string result = naturalNumberSeries.StringSquaresNumberLessThenN();
+            var result = naturalNumberSeries.FoundSquaresNumberLessThenN(out isFinish).ToString();
 
-            StringAssert.Equals(expected, result);
+            Assert.AreEqual(expected, result);
         }
     }
 }

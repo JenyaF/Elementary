@@ -10,20 +10,11 @@ namespace FileParser.Tests
     using System;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-    /// <summary>
-    /// Contains tests for class "WordProcessing".
-    /// </summary>
     [TestClass]
     public class WordProcessingTests
     {
-        /// <summary>
-        /// Gets or sets context of data.
-        /// </summary>
         public TestContext TestContext { get; set; }
 
-        /// <summary>
-        /// Tests method "CountOfOccurrences".
-        /// </summary>
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML",
             "Texts.xml",
             "text",
@@ -31,33 +22,30 @@ namespace FileParser.Tests
         [TestMethod]
         public void CountOfOccurrencesTest()
         {           
-            string text = TestContext.DataRow["currentText"].ToString();
-            WordProcessing wordProcessing = new WordProcessing(text);
-            string oldSubstring = TestContext.DataRow["oldSubstring"].ToString();
-            int expected = Convert.ToInt32(TestContext.DataRow["countOfOccurrences"]);
+            var text = TestContext.DataRow["currentText"].ToString();
+            var wordProcessing = new WordProcessing(text);
+            var oldSubstring = TestContext.DataRow["oldSubstring"].ToString();
+            var expected = Convert.ToInt32(TestContext.DataRow["countOfOccurrences"]);
 
             int result = wordProcessing.CountOfOccurrences(oldSubstring);
 
             Assert.AreEqual(expected, result);
         }
 
-        /// <summary>
-        /// Tests method "ReplacedText".
-        /// </summary>
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML",
             "Texts.xml",
             "text",
             DataAccessMethod.Sequential)]
         [TestMethod]
-        public void ReplasedTextTest()
+        public void GetReplasedTextTest()
         {
-            string text = TestContext.DataRow["currentText"].ToString();
-            WordProcessing wordProcessing = new WordProcessing(text);
-            string oldSubstring = TestContext.DataRow["oldSubstring"].ToString();
-            string newSubstring = TestContext.DataRow["newSubstring"].ToString();
-            string expected = TestContext.DataRow["replacedText"].ToString();
+            var text = TestContext.DataRow["currentText"].ToString();
+            var wordProcessing = new WordProcessing(text);
+            var oldSubstring = TestContext.DataRow["oldSubstring"].ToString();
+            var newSubstring = TestContext.DataRow["newSubstring"].ToString();
+            var expected = TestContext.DataRow["replacedText"].ToString();
 
-            string result = wordProcessing.ReplasedText(oldSubstring, newSubstring);
+            string result = wordProcessing.GetReplasedText(oldSubstring, newSubstring);
 
             Assert.AreEqual(expected, result);
         }

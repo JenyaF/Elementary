@@ -9,39 +9,18 @@ namespace FileParser
 {
     using System.Collections.Generic;
 
-    /// <summary>
-    /// Contains basic logic for working with text.
-    /// </summary>
     public class WordProcessing 
     {       
-        /// <summary>
-        /// Text for working.
-        /// </summary>
         private string text;
 
-        /// <summary>
-        /// Initializes a new instance of the <see cref="WordProcessing"/> class.
-        /// </summary>
-        /// <param name="text">Text for processing.</param>
         public WordProcessing(string text)
         {
             this.text = text;
         }
 
-        /// <summary>
-        /// Gets count of occurrences of given substring in text.
-        /// </summary>
-        /// <param name="substring">Substring for count.</param>
-        /// <returns>Count of occurrences of given substring in text.</returns>
         public int CountOfOccurrences(string substring) => this.IndexesOf(substring).Count;
 
-        /// <summary>
-        /// Gets replaced text.
-        /// </summary>
-        /// <param name="oldSubstring">Old substring.</param>
-        /// <param name="newSubstring">New substring.</param>
-        /// <returns>Replaced text.</returns>
-        public string ReplasedText(string oldSubstring, string newSubstring)
+        public string GetReplasedText(string oldSubstring, string newSubstring)
         {
             string replasedText = this.text;
             List<int> indexes = this.IndexesOf(oldSubstring);
@@ -58,11 +37,6 @@ namespace FileParser
             return replasedText;
         }
 
-        /// <summary>
-        /// Find indexes of occurrence substring in text.
-        /// </summary>
-        /// <param name="substring">substring for searching</param>
-        /// <returns>List of indexes.</returns>
         private List<int> IndexesOf(string substring)
         {
             List<int> listOfIndexes = new List<int>();

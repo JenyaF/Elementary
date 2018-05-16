@@ -4,19 +4,14 @@
 // </copyright>
 // <author>Jenya</author>
 //----------------------------------------------
+
 namespace SortingTriangles
 {
-    /// <summary>
-    /// Class for starting program
-    /// </summary>
     public class Program
     {
-        /// <summary>
-        /// Starts program.
-        /// </summary>
-        /// <param name="args">Arguments that are passed at startup.</param>
         public static void Main(string[] args)
         {
+            System.Globalization.CultureInfo.CurrentCulture = System.Globalization.CultureInfo.GetCultureInfo("en-US");
             Menu menu = new Menu();
             menu.Start();
         }

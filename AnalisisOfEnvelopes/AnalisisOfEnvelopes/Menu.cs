@@ -9,64 +9,53 @@ namespace AnalisisOfEnvelopes
 {
     using System;
 
-    /// <summary>
-    /// Contains basic logic for menu.
-    /// </summary>
     public class Menu
     {
-        /// <summary>
-        /// Starts menu.
-        /// </summary>
         public void Start()
         {
-            while (true)
+            double a = this.GetSideOfEnvelope();
+            double b = this.GetSideOfEnvelope();
+            double c = this.GetSideOfEnvelope();
+            double d = this.GetSideOfEnvelope();
+            var insertingEnvelopes = new InsertingEnvelopes(a, b, c, d);
+            Console.WriteLine(insertingEnvelopes.IsInsertingEnvelopes());
+            Console.WriteLine("Enter \"y\" or \"yes\" if you want to continue working with envelope.");
+            string unswer = Console.ReadLine().ToLower();
+            if (unswer == "y" || unswer == "yes")
             {
-                double a = this.GetRequest();
-                double b = this.GetRequest();
-                double c = this.GetRequest();
-                double d = this.GetRequest();
-                InsertingEnvelopes insertingEnvelopes = new InsertingEnvelopes(a, b, c, d);
-                Console.WriteLine(insertingEnvelopes.IsInsertingEnvelopes());
-                Console.WriteLine("Enter \"y\" or \"yes\" if you want to continue working with envelope.");
-                string unswer = Console.ReadLine().ToLower();
-                if (unswer == "y" || unswer == "yes")
-                {
-                    this.Start();
-                }
-                else
-                {
-                    break;
-                }
-            }           
+                this.Start();
+            }
         }
 
-        /// <summary>
-        /// Gets side of envelope.
-        /// </summary>
-        /// <returns>side of envelope.</returns>
-        public double GetRequest()
+        public double GetSideOfEnvelope()
         {
             try
             {
                 Console.WriteLine("Enter side of envelope:");
-                double x = Convert.ToDouble(Console.ReadLine());
-                if (x > 0)
+                double x;
+                if (double.TryParse(Console.ReadLine(), out x))
                 {
-                    return x;
+                    if (x > 0)
+                    {
+                        return x;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Side must be greater then zero!");
+                        return this.GetSideOfEnvelope();
+                    }
                 }
-
-                throw new Exception("Side must be greater then zero!");
+                else
+                {
+                    Console.WriteLine("Incorrect data!");
+                    return this.GetSideOfEnvelope();
+                }
             }
-            catch (FormatException)
-            {
-                Console.WriteLine("Incorrect data!");
-            }
-            catch (Exception e)
+            catch (Exception)
             {               
-                Console.WriteLine(e.Message);
+                Console.WriteLine("This is not supported!");
+                return this.GetSideOfEnvelope();
             }
-
-            return this.GetRequest();
         }     
     }
 }

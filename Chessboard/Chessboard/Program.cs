@@ -8,25 +8,23 @@
 namespace Chessboard
 {
     using System;
-    using System.IO;
-    /// <summary>
-    /// Class for starting program
-    /// </summary>
+
     public class Program
     {
-        /// <summary>
-        /// Starts program.
-        /// </summary>
-        /// <param name="args">Arguments that are passed at startup.</param>
         public static void Main(string[] args)
         {
             int height = Convert.ToInt32(args[0]);
             int width = Convert.ToInt32(args[1]);
-            Chessboard chessboard = new Chessboard(height, width);
-            Console.WriteLine(chessboard.GetField());
-
-
-            
-        }
+            if (int.TryParse(args[0], out height) && int.TryParse(args[1], out width))
+            {
+                var chessboard = new Chessboard(height, width);
+                Console.WriteLine(chessboard.GetField());
+            }
+            else
+            {
+                Console.WriteLine("Incorrect data!");
+            }
+            Console.ReadLine();
+        }                                      
     }
 }

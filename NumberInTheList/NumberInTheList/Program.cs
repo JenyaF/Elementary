@@ -4,24 +4,25 @@
 // </copyright>
 // <author>Jenya</author>
 //----------------------------------------------
+
 namespace NumberInTheList
 {
     using System;
 
-    /// <summary>
-    /// Class for starting program
-    /// </summary>
     public class Program
     {
-        /// <summary>
-        /// Starts program.
-        /// </summary>
-        /// <param name="args">Arguments that are passed at startup.</param>
         public static void Main(string[] args)
         {
-            int number = Convert.ToInt32(args[0]);
-            NumberInList numberInList = new NumberInList(number);
-            Console.WriteLine(numberInList.GetStringNumber());
+            int number;
+            if (int.TryParse(args[0], out number))
+            {
+                var numberInList = new NumberInList(number);
+                Console.WriteLine(numberInList.GetStringNumber());
+            }
+            else
+            {
+                Console.WriteLine("incorrect data!");
+            }
         }
     }
 }

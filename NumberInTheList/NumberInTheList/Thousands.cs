@@ -7,9 +7,6 @@
 
 namespace NumberInTheList
 {
-    /// <summary>
-    /// Contains main logic for thousands.
-    /// </summary>
     public class Thousands : Digits
     {
         /// <summary>
@@ -17,15 +14,8 @@ namespace NumberInTheList
         /// </summary>
         private Units units = new Units();
 
-        /// <summary>
-        /// "true", if thousand already used.
-        /// </summary>
         public static bool IsUsed { get; set; }
 
-        /// <summary>
-        /// Gets string representation of digit.
-        /// </summary>
-        /// <returns>String representation of digit.</returns>
         public override string GetName()
         {           
             string name = units.GetName(Digit, true);
@@ -56,7 +46,7 @@ namespace NumberInTheList
         }
 
         /// <summary>
-        /// Extract string representation and go to tens.
+        /// Extract part string representation and go to tens.
         /// </summary>
         /// <returns>String representation of digit.</returns>
         public override string Extract()

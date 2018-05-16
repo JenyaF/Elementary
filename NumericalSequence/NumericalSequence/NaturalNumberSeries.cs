@@ -8,65 +8,54 @@
 namespace NumericalSequence
 {
     using System;
-    using System.Collections.Generic;
+    using System.Text;
 
-    /// <summary>
-    /// Contains the basic logic for the representation of series of natural numbers,
-    /// the square of which is less than the given number n.
-    /// </summary>
     public class NaturalNumberSeries
     {
+        private const int allowableLengthOfOutput = 1000;
         /// <summary>
         /// Given upper bounder.
         /// </summary>
-        private int n;
-
-        /// <summary>
-        /// Initializes a new instance of the <see cref="NaturalNumberSeries"/> class.
-        /// </summary>
+        private readonly int n;
+       
         /// <param name="n">Upper bounder.</param>
         public NaturalNumberSeries(int n)
         {
             this.n = Math.Abs(n);
-        }    
-
-        /// <summary>
-        /// Get list of of natural numbers separated by a comma,
-        /// the square of which is less than the given number n.
-        /// </summary>
-        /// <returns>Series of natural number.</returns>
-        public string StringSquaresNumberLessThenN()
-        {
-            string result = string.Empty;
-            List<int> list = this.SquaresNumberLessThenN();
-            foreach (var number in list)
-            {
-                result += number + ", ";
-            }
-
-            if (result != string.Empty)
-            {
-                return result.Remove(result.Length - 2);
-            }
-           
-            return result;
         }
 
+        public int Number { get; set; } = 1;
+
         /// <summary>
-        /// Found all  natural numbers,
+        /// Founds all  natural numbers,
         /// the square of which is less than the given number n.
         /// </summary>
-        /// <returns>List of natural numbers, the square of which is less than the given number n.</returns>
-        private List<int> SquaresNumberLessThenN()
+        /// <param name="isFinish">if it outputs all numbers.</param>
+        /// <returns>Numbers separated by a comma.</returns>
+        public StringBuilder FoundSquaresNumberLessThenN(out bool isFinish)
         {
-            List<int> list = new List<int>();
-            int number = 1;
-            for (var i = 1; number < this.n; i++, number = i * i)
+            var builder = new StringBuilder();
+            
+            for (; Number * Number < this.n; Number++)
             {
-                list.Add(number);
+                if (builder.Length < allowableLengthOfOutput)
+                {
+                    builder.Append($"{Number}, ");
+                }
+                else
+                {
+                    isFinish = false;
+                    return builder;
+                }            
             }
 
-            return list;
+            if (builder.Length != 0)
+            {
+                builder.Remove(builder.Length - 2, 1);
+            }
+
+            isFinish = true;
+            return builder;
         }
     }
 }

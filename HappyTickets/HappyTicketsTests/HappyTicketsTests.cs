@@ -11,20 +11,11 @@ namespace HappyTickets.Tests
     using System.Linq;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-    /// <summary>
-    /// Tests class "HappyTickets".
-    /// </summary>
     [TestClass]
     public class HappyTicketsTests
     {
-        /// <summary>
-        /// Gets or sets context of data.
-        /// </summary>
         public TestContext TestContext { get; set; }
 
-        /// <summary>
-        /// Tests method "IsHappyMoskow".
-        /// </summary>
         [TestMethod]
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "Tickets.xml", "number", DataAccessMethod.Sequential)]
         public void IsHappyMoskowTest()
@@ -38,9 +29,6 @@ namespace HappyTickets.Tests
             Assert.AreEqual(result, expected);
         }
 
-        /// <summary>
-        /// Tests method "IsHappyPiter".
-        /// </summary>
         [TestMethod]
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "Tickets.xml", "number", DataAccessMethod.Sequential)]
         public void IsHappyPiterTest()
@@ -54,9 +42,6 @@ namespace HappyTickets.Tests
             Assert.AreEqual(result, expected);
         }
 
-        /// <summary>
-        /// Tests method "CountOfHappyTickets" in Moskow case.
-        /// </summary>
         [TestMethod]
         public void CountOfHappyTicketsTest_Moskow()
         {
@@ -68,9 +53,6 @@ namespace HappyTickets.Tests
             Assert.AreEqual(result, expected);
         }
 
-        /// <summary>
-        /// Tests method "CountOfHappyTickets" in Piter case.
-        /// </summary>
         [TestMethod]
         public void CountOfHappyTicketsTest_Piter()
         {

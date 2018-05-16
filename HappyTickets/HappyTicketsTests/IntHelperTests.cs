@@ -9,15 +9,9 @@ namespace HappyTickets.Tests
 {
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-    /// <summary>
-    /// Tests class "IntHelper".
-    /// </summary>
     [TestClass]
     public class IntHelperTests
     {
-        /// <summary>
-        /// Tests method "ConvertToArray" in case 123456
-        /// </summary>
         [TestMethod]
         public void ConvertToArrayTest_123456()
         {
@@ -29,9 +23,6 @@ namespace HappyTickets.Tests
             CollectionAssert.AreEqual(expected, result);
         }
 
-        /// <summary>
-        /// Tests method "ConvertToArray" in case 000123
-        /// </summary>
         [TestMethod]
         public void ConvertToArrayTest_000123()
         {
@@ -43,9 +34,6 @@ namespace HappyTickets.Tests
             CollectionAssert.AreEqual(expected, result);
         }
 
-        /// <summary>
-        /// Tests method "ConvertToArray" in case 000000
-        /// </summary>
         [TestMethod]
         public void ConvertToArrayTest_000000()
         {

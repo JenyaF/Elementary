@@ -20,10 +20,17 @@ namespace FibonacciSeriesforRange
         /// <param name="args">Arguments that are passed at startup.</param>
         public static void Main(string[] args)
         {
-            int lowerBound = Convert.ToInt32(args[0]);
-            int upperBound = Convert.ToInt32(args[1]);
-            FibonacciSeries fibonacciSeries = new FibonacciSeries(lowerBound, upperBound);
-            Console.WriteLine(fibonacciSeries.GetStringSeries());
+            int lowerBound, upperBound;
+            if (int.TryParse(args[0], out lowerBound) && (int.TryParse(args[1], out upperBound)))
+            {
+                var fibonacciSeries = new FibonacciSeries(lowerBound, upperBound);
+                Console.WriteLine(fibonacciSeries.GetStringSeries());
+            }
+            else
+            {
+                Console.WriteLine("Incorrect data!");
+            }
+
         }
     }
 }

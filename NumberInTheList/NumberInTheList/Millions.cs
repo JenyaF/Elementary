@@ -7,9 +7,7 @@
 
 namespace NumberInTheList
 {
-    /// <summary>
-    /// Contains main logic for million.
-    /// </summary>
+
     public class Millions : Digits
     {
         /// <summary>
@@ -17,15 +15,8 @@ namespace NumberInTheList
         /// </summary>
         private Units units = new Units();
 
-        /// <summary>
-        /// "true", if miilion already used.
-        /// </summary>
         public static bool IsUsed { get; set; }
 
-        /// <summary>
-        /// Gets string representation of digit.
-        /// </summary>
-        /// <returns>String representation of digit.</returns>
         public override string GetName()
         {
             string name = units.GetName(Digit, false);
@@ -56,9 +47,8 @@ namespace NumberInTheList
         }
 
         /// <summary>
-        /// Extract string representation and go to tens.
+        /// Extract part string representation and go to tens.
         /// </summary>
-        /// <returns>String representation of digit.</returns>
         public override string Extract()
         {
             IsUsed = true;

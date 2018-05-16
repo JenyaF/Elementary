@@ -7,19 +7,11 @@
 
 namespace HappyTickets
 {
-    /// <summary>
-    /// Helper for integer.
-    /// </summary>
     public static class IntHelper
     {
-        /// <summary>
-        /// Converts given number to array.
-        /// </summary>
-        /// <param name="number">Given number.</param>
-        /// <param name="lengthOfArray">Length of array</param>
-        /// <returns>Array of digits</returns>
+
         public static int[] ConvertToArray(this int number, int lengthOfArray)
-        {
+        {            
             int[] digits = new int[lengthOfArray];
             var quotient = number / 10;
             digits[lengthOfArray - 1] = number % 10;

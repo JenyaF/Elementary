@@ -7,17 +7,11 @@
 
 namespace Elementary
 {
-    /// <summary>
-    /// Contains basic logic for menu.
-    /// </summary>
+
     public class Program
     {
-        /// <summary>
-        /// Starts program.
-        /// </summary>
-        /// <param name="args">Arguments that are passed at startup.</param>
         public static void Main(string[] args)
-        {
+        {          
             Menu menu = new Menu();
             menu.Start();
         }
